@@ -1,4 +1,4 @@
-# My Library
+# Pageable Object Library
 
 A Java library for handling pagination with a simple and flexible `Pageable` and `Page` class implementation. Easily integrate pagination features into your Java or Spring projects. Built with Java 17.
 
